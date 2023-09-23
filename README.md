@@ -10,7 +10,6 @@ It is aimed at empowering aspiring developers and tech enthusiasts to make a pos
 
 ## Choose Your Track!
 
-* **Android Development Track**: Dive into the world of Android app development with guidance from **Abhinandan Trilokia**. Learn to build apps, enhance user experiences, and explore the Android ecosystem.
 
 
 * **Web Development Track**: Embark on a web development journey with **Atul Sharma**. Master web technologies, create dynamic websites, and bring your design ideas to life.
@@ -42,8 +41,7 @@ We welcome contributions from all participants! If you have ideas, suggestions, 
 
 - **Android Mentor**: [Abhinandan Trilokia](https://github.com/Trilokia)
 - **Web Mentor**: [Atul Sharma](https://github.com/atul573/)
-- **Your Track**: [vatsal](https://github.com/vat-sa-l) (web development)
-
+- **Your Track**: [vatsal](https://github.com/vat-sa-l) 
  As part of this program, you'll engage with the community by participating in one or more tasks on a timely basis with **Google Developers Group Jammu's*** support.
 
 Builds good things, together 🚀
